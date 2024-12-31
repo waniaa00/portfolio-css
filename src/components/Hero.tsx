@@ -1,4 +1,3 @@
-import React from "react";
 import "@/app/styles/hero.css";
 
 const Hero = () => {
