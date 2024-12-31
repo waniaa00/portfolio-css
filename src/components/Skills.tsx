@@ -1,5 +1,4 @@
-import "@/app/styles/skills.css"
-
+import "@/app/styles/skills.css";
 
 const Skills = () => {
   return (
@@ -17,7 +16,7 @@ const Skills = () => {
             With a meticulous approach and dedication to hard work, I deliver
             high-quality solutions that exceed expectations. My portfolio
             showcases a curated selection of my work, demonstrating my ability
-            to balance aesthetics with functionality. I'm excited to collaborate
+            to balance aesthetics with functionality. I&apos;m excited to collaborate
             on projects that challenge me creatively and technologically, and
             look forward to contributing my expertise to dynamic teams.
           </p>
@@ -28,16 +27,13 @@ const Skills = () => {
                     <h2 data-aos="zoom-in-up">Next.JS</h2>
                     <h2 data-aos="zoom-in-up">React.JS</h2>
                     <h2 data-aos="zoom-in-up">Typescript</h2>
-
                 </div>
 
                 <div className='skills-space'>
                     <h2 data-aos="zoom-in-up">CSS</h2>
                     <h2 data-aos="zoom-in-up">Node.JS</h2>
                     <h2 data-aos="zoom-in-up">Tailwind</h2>
-
                 </div>
-
             </div>
         </div>
       </div>
